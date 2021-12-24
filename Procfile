@@ -1,0 +1,1 @@
+web gunicorn django_wfmt_rapid_api_project.wsgi:application --log-file -
